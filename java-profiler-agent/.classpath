@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/eclipse_playarea/java-profiler-agent/lib/javassist-3.26.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse_playarea/java-profiler-agent/lib/jackson-annotations-2.10.0.pr2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse_playarea/java-profiler-agent/lib/jackson-core-2.10.0.pr2.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse_playarea/java-profiler-agent/lib/jackson-databind-2.10.0.pr2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
